@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FirstCaseWithShape\ShapeLib.csproj" />
+    <ProjectReference Include="..\ShapeLib\ShapeLib.csproj" />
   </ItemGroup>
 
 </Project>
